@@ -1,0 +1,1 @@
+python3 ProbabilisticGeneration.py standardize $3 $4 $5 $6
