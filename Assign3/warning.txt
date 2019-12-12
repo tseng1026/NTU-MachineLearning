@@ -1,0 +1,2000 @@
+
+###### Epoch: 1
+[Done] Computing train loss: 1.8720
+[Done] Computing train scre: 0.2254
+
+###### Epoch: 2
+[Done] Computing train loss: 1.8248
+[Done] Computing train scre: 0.2423
+
+###### Epoch: 3
+[Done] Computing train loss: 1.7038
+[Done] Computing train scre: 0.3084
+
+###### Epoch: 4
+[Done] Computing train loss: 1.5837
+[Done] Computing train scre: 0.3694
+
+###### Epoch: 5
+[Done] Computing train loss: 1.5331
+[Done] Computing train scre: 0.3884
+
+###### Epoch: 6
+[Done] Computing train loss: 1.4948
+[Done] Computing train scre: 0.4045
+
+###### Epoch: 7
+[Done] Computing train loss: 1.4784
+[Done] Computing train scre: 0.4100
+
+###### Epoch: 8
+[Done] Computing train loss: 1.4570
+[Done] Computing train scre: 0.4194
+
+###### Epoch: 9
+[Done] Computing train loss: 1.4219
+[Done] Computing train scre: 0.4317
+
+###### Epoch: 10
+[Done] Computing train loss: 1.3533
+[Done] Computing train scre: 0.4681
+
+###### Epoch: 11
+[Done] Computing train loss: 1.3005
+[Done] Computing train scre: 0.4908
+
+###### Epoch: 12
+[Done] Computing train loss: 1.2439
+[Done] Computing train scre: 0.5188
+
+###### Epoch: 13
+[Done] Computing train loss: 1.1934
+[Done] Computing train scre: 0.5426
+
+###### Epoch: 14
+[Done] Computing train loss: 1.1381
+[Done] Computing train scre: 0.5694
+
+###### Epoch: 15
+[Done] Computing train loss: 1.0707
+[Done] Computing train scre: 0.6020
+
+###### Epoch: 16
+[Done] Computing train loss: 1.0222
+[Done] Computing train scre: 0.6263
+
+###### Epoch: 17
+[Done] Computing train loss: 0.9599
+[Done] Computing train scre: 0.6587
+
+###### Epoch: 18
+[Done] Computing train loss: 0.9006
+[Done] Computing train scre: 0.6827
+
+###### Epoch: 19
+[Done] Computing train loss: 0.8590
+[Done] Computing train scre: 0.6996
+
+###### Epoch: 20
+[Done] Computing train loss: 0.8037
+[Done] Computing train scre: 0.7235
+
+###### Epoch: 21
+[Done] Computing train loss: 0.7448
+[Done] Computing train scre: 0.7476
+
+###### Epoch: 22
+[Done] Computing train loss: 0.7100
+[Done] Computing train scre: 0.7658
+
+###### Epoch: 23
+[Done] Computing train loss: 0.6733
+[Done] Computing train scre: 0.7794
+
+###### Epoch: 24
+[Done] Computing train loss: 0.6426
+[Done] Computing train scre: 0.7897
+
+###### Epoch: 25
+[Done] Computing train loss: 0.5928
+[Done] Computing train scre: 0.8118
+
+###### Epoch: 26
+[Done] Computing train loss: 0.5662
+[Done] Computing train scre: 0.8213
+
+###### Epoch: 27
+[Done] Computing train loss: 0.5232
+[Done] Computing train scre: 0.8374
+
+###### Epoch: 28
+[Done] Computing train loss: 0.5051
+[Done] Computing train scre: 0.8447
+
+###### Epoch: 29
+[Done] Computing train loss: 0.4838
+[Done] Computing train scre: 0.8525
+
+###### Epoch: 30
+[Done] Computing train loss: 0.4002
+[Done] Computing train scre: 0.8830
+
+###### Epoch: 31
+[Done] Computing train loss: 0.3560
+[Done] Computing train scre: 0.8962
+
+###### Epoch: 32
+[Done] Computing train loss: 0.3346
+[Done] Computing train scre: 0.9017
+
+###### Epoch: 33
+[Done] Computing train loss: 0.3088
+[Done] Computing train scre: 0.9102
+
+###### Epoch: 34
+[Done] Computing train loss: 0.2916
+[Done] Computing train scre: 0.9165
+
+###### Epoch: 35
+[Done] Computing train loss: 0.2657
+[Done] Computing train scre: 0.9226
+
+###### Epoch: 36
+[Done] Computing train loss: 0.2479
+[Done] Computing train scre: 0.9293
+
+###### Epoch: 37
+[Done] Computing train loss: 0.2301
+[Done] Computing train scre: 0.9343
+
+###### Epoch: 38
+[Done] Computing train loss: 0.2231
+[Done] Computing train scre: 0.9373
+
+###### Epoch: 39
+[Done] Computing train loss: 0.2065
+[Done] Computing train scre: 0.9423
+
+###### Epoch: 40
+[Done] Computing train loss: 0.1945
+[Done] Computing train scre: 0.9461
+
+###### Epoch: 41
+[Done] Computing train loss: 0.1941
+[Done] Computing train scre: 0.9472
+
+###### Epoch: 42
+[Done] Computing train loss: 0.1724
+[Done] Computing train scre: 0.9522
+
+###### Epoch: 43
+[Done] Computing train loss: 0.1636
+[Done] Computing train scre: 0.9552
+
+###### Epoch: 44
+[Done] Computing train loss: 0.1604
+[Done] Computing train scre: 0.9546
+
+###### Epoch: 45
+[Done] Computing train loss: 0.1578
+[Done] Computing train scre: 0.9561
+
+###### Epoch: 46
+[Done] Computing train loss: 0.1366
+[Done] Computing train scre: 0.9622
+
+###### Epoch: 47
+[Done] Computing train loss: 0.1476
+[Done] Computing train scre: 0.9573
+
+###### Epoch: 48
+[Done] Computing train loss: 0.1326
+[Done] Computing train scre: 0.9632
+
+###### Epoch: 49
+[Done] Computing train loss: 0.1395
+[Done] Computing train scre: 0.9602
+
+###### Epoch: 50
+[Done] Computing train loss: 0.1287
+[Done] Computing train scre: 0.9637
+
+###### Epoch: 51
+[Done] Computing train loss: 0.1203
+[Done] Computing train scre: 0.9659
+
+###### Epoch: 52
+[Done] Computing train loss: 0.1143
+[Done] Computing train scre: 0.9683
+
+###### Epoch: 53
+[Done] Computing train loss: 0.1103
+[Done] Computing train scre: 0.9689
+
+###### Epoch: 54
+[Done] Computing train loss: 0.1204
+[Done] Computing train scre: 0.9653
+
+###### Epoch: 55
+[Done] Computing train loss: 0.1107
+[Done] Computing train scre: 0.9692
+
+###### Epoch: 56
+[Done] Computing train loss: 0.1013
+[Done] Computing train scre: 0.9712
+
+###### Epoch: 57
+[Done] Computing train loss: 0.1071
+[Done] Computing train scre: 0.9693
+
+###### Epoch: 58
+[Done] Computing train loss: 0.1032
+[Done] Computing train scre: 0.9702
+
+###### Epoch: 59
+[Done] Computing train loss: 0.0986
+[Done] Computing train scre: 0.9705
+
+###### Epoch: 60
+[Done] Computing train loss: 0.0937
+[Done] Computing train scre: 0.9735
+
+###### Epoch: 61
+[Done] Computing train loss: 0.0895
+[Done] Computing train scre: 0.9739
+
+###### Epoch: 62
+[Done] Computing train loss: 0.0935
+[Done] Computing train scre: 0.9739
+
+###### Epoch: 63
+[Done] Computing train loss: 0.0830
+[Done] Computing train scre: 0.9761
+
+###### Epoch: 64
+[Done] Computing train loss: 0.0887
+[Done] Computing train scre: 0.9740
+
+###### Epoch: 65
+[Done] Computing train loss: 0.0870
+[Done] Computing train scre: 0.9742
+
+###### Epoch: 66
+[Done] Computing train loss: 0.0786
+[Done] Computing train scre: 0.9770
+
+###### Epoch: 67
+[Done] Computing train loss: 0.0754
+[Done] Computing train scre: 0.9782
+
+###### Epoch: 68
+[Done] Computing train loss: 0.0877
+[Done] Computing train scre: 0.9734
+
+###### Epoch: 69
+[Done] Computing train loss: 0.0745
+[Done] Computing train scre: 0.9785
+
+###### Epoch: 70
+[Done] Computing train loss: 0.0725
+[Done] Computing train scre: 0.9783
+
+###### Epoch: 71
+[Done] Computing train loss: 0.0837
+[Done] Computing train scre: 0.9767
+
+###### Epoch: 72
+[Done] Computing train loss: 0.0738
+[Done] Computing train scre: 0.9781
+
+###### Epoch: 73
+[Done] Computing train loss: 0.0725
+[Done] Computing train scre: 0.9786
+
+###### Epoch: 74
+[Done] Computing train loss: 0.0714
+[Done] Computing train scre: 0.9791
+
+###### Epoch: 75
+[Done] Computing train loss: 0.0707
+[Done] Computing train scre: 0.9788
+
+###### Epoch: 76
+[Done] Computing train loss: 0.0679
+[Done] Computing train scre: 0.9802
+
+###### Epoch: 77
+[Done] Computing train loss: 0.0717
+[Done] Computing train scre: 0.9786
+
+###### Epoch: 78
+[Done] Computing train loss: 0.0626
+[Done] Computing train scre: 0.9810
+
+###### Epoch: 79
+[Done] Computing train loss: 0.0712
+[Done] Computing train scre: 0.9786
+
+###### Epoch: 80
+[Done] Computing train loss: 0.0642
+[Done] Computing train scre: 0.9805
+
+###### Epoch: 81
+[Done] Computing train loss: 0.0606
+[Done] Computing train scre: 0.9821
+
+###### Epoch: 82
+[Done] Computing train loss: 0.0632
+[Done] Computing train scre: 0.9804
+
+###### Epoch: 83
+[Done] Computing train loss: 0.0636
+[Done] Computing train scre: 0.9810
+
+###### Epoch: 84
+[Done] Computing train loss: 0.0593
+[Done] Computing train scre: 0.9824
+
+###### Epoch: 85
+[Done] Computing train loss: 0.0585
+[Done] Computing train scre: 0.9817
+
+###### Epoch: 86
+[Done] Computing train loss: 0.0597
+[Done] Computing train scre: 0.9820
+
+###### Epoch: 87
+[Done] Computing train loss: 0.0578
+[Done] Computing train scre: 0.9832
+
+###### Epoch: 88
+[Done] Computing train loss: 0.0500
+[Done] Computing train scre: 0.9857
+
+###### Epoch: 89
+[Done] Computing train loss: 0.0611
+[Done] Computing train scre: 0.9819
+
+###### Epoch: 90
+[Done] Computing train loss: 0.0554
+[Done] Computing train scre: 0.9833
+
+###### Epoch: 91
+[Done] Computing train loss: 0.0538
+[Done] Computing train scre: 0.9842
+
+###### Epoch: 92
+[Done] Computing train loss: 0.0608
+[Done] Computing train scre: 0.9816
+
+###### Epoch: 93
+[Done] Computing train loss: 0.0459
+[Done] Computing train scre: 0.9858
+
+###### Epoch: 94
+[Done] Computing train loss: 0.0517
+[Done] Computing train scre: 0.9846
+
+###### Epoch: 95
+[Done] Computing train loss: 0.0571
+[Done] Computing train scre: 0.9822
+
+###### Epoch: 96
+[Done] Computing train loss: 0.0527
+[Done] Computing train scre: 0.9832
+
+###### Epoch: 97
+[Done] Computing train loss: 0.0485
+[Done] Computing train scre: 0.9852
+
+###### Epoch: 98
+[Done] Computing train loss: 0.0495
+[Done] Computing train scre: 0.9849
+
+###### Epoch: 99
+[Done] Computing train loss: 0.0551
+[Done] Computing train scre: 0.9832
+
+###### Epoch: 100
+[Done] Computing train loss: 0.0517
+[Done] Computing train scre: 0.9843
+
+###### Epoch: 101
+[Done] Computing train loss: 0.0549
+[Done] Computing train scre: 0.9845
+
+###### Epoch: 102
+[Done] Computing train loss: 0.0425
+[Done] Computing train scre: 0.9862
+
+###### Epoch: 103
+[Done] Computing train loss: 0.0494
+[Done] Computing train scre: 0.9848
+
+###### Epoch: 104
+[Done] Computing train loss: 0.0452
+[Done] Computing train scre: 0.9869
+
+###### Epoch: 105
+[Done] Computing train loss: 0.0497
+[Done] Computing train scre: 0.9850
+
+###### Epoch: 106
+[Done] Computing train loss: 0.0449
+[Done] Computing train scre: 0.9868
+
+###### Epoch: 107
+[Done] Computing train loss: 0.0479
+[Done] Computing train scre: 0.9858
+
+###### Epoch: 108
+[Done] Computing train loss: 0.0443
+[Done] Computing train scre: 0.9865
+
+###### Epoch: 109
+[Done] Computing train loss: 0.0464
+[Done] Computing train scre: 0.9865
+
+###### Epoch: 110
+[Done] Computing train loss: 0.0408
+[Done] Computing train scre: 0.9868
+
+###### Epoch: 111
+[Done] Computing train loss: 0.0386
+[Done] Computing train scre: 0.9879
+
+###### Epoch: 112
+[Done] Computing train loss: 0.0432
+[Done] Computing train scre: 0.9868
+
+###### Epoch: 113
+[Done] Computing train loss: 0.0481
+[Done] Computing train scre: 0.9856
+
+###### Epoch: 114
+[Done] Computing train loss: 0.0411
+[Done] Computing train scre: 0.9869
+
+###### Epoch: 115
+[Done] Computing train loss: 0.0460
+[Done] Computing train scre: 0.9856
+
+###### Epoch: 116
+[Done] Computing train loss: 0.0392
+[Done] Computing train scre: 0.9873
+
+###### Epoch: 117
+[Done] Computing train loss: 0.0399
+[Done] Computing train scre: 0.9876
+
+###### Epoch: 118
+[Done] Computing train loss: 0.0419
+[Done] Computing train scre: 0.9867
+
+###### Epoch: 119
+[Done] Computing train loss: 0.0420
+[Done] Computing train scre: 0.9876
+
+###### Epoch: 120
+[Done] Computing train loss: 0.0434
+[Done] Computing train scre: 0.9862
+
+###### Epoch: 121
+[Done] Computing train loss: 0.0432
+[Done] Computing train scre: 0.9868
+
+###### Epoch: 122
+[Done] Computing train loss: 0.0379
+[Done] Computing train scre: 0.9880
+
+###### Epoch: 123
+[Done] Computing train loss: 0.0377
+[Done] Computing train scre: 0.9880
+
+###### Epoch: 124
+[Done] Computing train loss: 0.0410
+[Done] Computing train scre: 0.9876
+
+###### Epoch: 125
+[Done] Computing train loss: 0.0367
+[Done] Computing train scre: 0.9884
+
+###### Epoch: 126
+[Done] Computing train loss: 0.0455
+[Done] Computing train scre: 0.9860
+
+###### Epoch: 127
+[Done] Computing train loss: 0.0374
+[Done] Computing train scre: 0.9881
+
+###### Epoch: 128
+[Done] Computing train loss: 0.0413
+[Done] Computing train scre: 0.9874
+
+###### Epoch: 129
+[Done] Computing train loss: 0.0370
+[Done] Computing train scre: 0.9880
+
+###### Epoch: 130
+[Done] Computing train loss: 0.0357
+[Done] Computing train scre: 0.9888
+
+###### Epoch: 131
+[Done] Computing train loss: 0.0392
+[Done] Computing train scre: 0.9878
+
+###### Epoch: 132
+[Done] Computing train loss: 0.0345
+[Done] Computing train scre: 0.9899
+
+###### Epoch: 133
+[Done] Computing train loss: 0.0405
+[Done] Computing train scre: 0.9870
+
+###### Epoch: 134
+[Done] Computing train loss: 0.0340
+[Done] Computing train scre: 0.9897
+
+###### Epoch: 135
+[Done] Computing train loss: 0.0321
+[Done] Computing train scre: 0.9902
+
+###### Epoch: 136
+[Done] Computing train loss: 0.0363
+[Done] Computing train scre: 0.9879
+
+###### Epoch: 137
+[Done] Computing train loss: 0.0344
+[Done] Computing train scre: 0.9898
+
+###### Epoch: 138
+[Done] Computing train loss: 0.0355
+[Done] Computing train scre: 0.9890
+
+###### Epoch: 139
+[Done] Computing train loss: 0.0371
+[Done] Computing train scre: 0.9884
+
+###### Epoch: 140
+[Done] Computing train loss: 0.0327
+[Done] Computing train scre: 0.9896
+
+###### Epoch: 141
+[Done] Computing train loss: 0.0370
+[Done] Computing train scre: 0.9882
+
+###### Epoch: 142
+[Done] Computing train loss: 0.0374
+[Done] Computing train scre: 0.9883
+
+###### Epoch: 143
+[Done] Computing train loss: 0.0280
+[Done] Computing train scre: 0.9914
+
+###### Epoch: 144
+[Done] Computing train loss: 0.0363
+[Done] Computing train scre: 0.9894
+
+###### Epoch: 145
+[Done] Computing train loss: 0.0320
+[Done] Computing train scre: 0.9894
+
+###### Epoch: 146
+[Done] Computing train loss: 0.0351
+[Done] Computing train scre: 0.9888
+
+###### Epoch: 147
+[Done] Computing train loss: 0.0385
+[Done] Computing train scre: 0.9880
+
+###### Epoch: 148
+[Done] Computing train loss: 0.0304
+[Done] Computing train scre: 0.9903
+
+###### Epoch: 149
+[Done] Computing train loss: 0.0332
+[Done] Computing train scre: 0.9893
+
+###### Epoch: 150
+[Done] Computing train loss: 0.0360
+[Done] Computing train scre: 0.9890
+
+###### Epoch: 151
+[Done] Computing train loss: 0.0242
+[Done] Computing train scre: 0.9926
+
+###### Epoch: 152
+[Done] Computing train loss: 0.0315
+[Done] Computing train scre: 0.9904
+
+###### Epoch: 153
+[Done] Computing train loss: 0.0311
+[Done] Computing train scre: 0.9898
+
+###### Epoch: 154
+[Done] Computing train loss: 0.0319
+[Done] Computing train scre: 0.9903
+
+###### Epoch: 155
+[Done] Computing train loss: 0.0328
+[Done] Computing train scre: 0.9897
+
+###### Epoch: 156
+[Done] Computing train loss: 0.0351
+[Done] Computing train scre: 0.9891
+
+###### Epoch: 157
+[Done] Computing train loss: 0.0330
+[Done] Computing train scre: 0.9896
+
+###### Epoch: 158
+[Done] Computing train loss: 0.0299
+[Done] Computing train scre: 0.9907
+
+###### Epoch: 159
+[Done] Computing train loss: 0.0320
+[Done] Computing train scre: 0.9905
+
+###### Epoch: 160
+[Done] Computing train loss: 0.0293
+[Done] Computing train scre: 0.9907
+
+###### Epoch: 161
+[Done] Computing train loss: 0.0297
+[Done] Computing train scre: 0.9909
+
+###### Epoch: 162
+[Done] Computing train loss: 0.0276
+[Done] Computing train scre: 0.9912
+
+###### Epoch: 163
+[Done] Computing train loss: 0.0304
+[Done] Computing train scre: 0.9907
+
+###### Epoch: 164
+[Done] Computing train loss: 0.0332
+[Done] Computing train scre: 0.9901
+
+###### Epoch: 165
+[Done] Computing train loss: 0.0305
+[Done] Computing train scre: 0.9904
+
+###### Epoch: 166
+[Done] Computing train loss: 0.0300
+[Done] Computing train scre: 0.9906
+
+###### Epoch: 167
+[Done] Computing train loss: 0.0308
+[Done] Computing train scre: 0.9904
+
+###### Epoch: 168
+[Done] Computing train loss: 0.0301
+[Done] Computing train scre: 0.9902
+
+###### Epoch: 169
+[Done] Computing train loss: 0.0273
+[Done] Computing train scre: 0.9914
+
+###### Epoch: 170
+[Done] Computing train loss: 0.0273
+[Done] Computing train scre: 0.9910
+
+###### Epoch: 171
+[Done] Computing train loss: 0.0296
+[Done] Computing train scre: 0.9913
+
+###### Epoch: 172
+[Done] Computing train loss: 0.0333
+[Done] Computing train scre: 0.9903
+
+###### Epoch: 173
+[Done] Computing train loss: 0.0280
+[Done] Computing train scre: 0.9911
+
+###### Epoch: 174
+[Done] Computing train loss: 0.0267
+[Done] Computing train scre: 0.9911
+
+###### Epoch: 175
+[Done] Computing train loss: 0.0253
+[Done] Computing train scre: 0.9916
+
+###### Epoch: 176
+[Done] Computing train loss: 0.0330
+[Done] Computing train scre: 0.9900
+
+###### Epoch: 177
+[Done] Computing train loss: 0.0270
+[Done] Computing train scre: 0.9914
+
+###### Epoch: 178
+[Done] Computing train loss: 0.0278
+[Done] Computing train scre: 0.9910
+
+###### Epoch: 179
+[Done] Computing train loss: 0.0261
+[Done] Computing train scre: 0.9909
+
+###### Epoch: 180
+[Done] Computing train loss: 0.0285
+[Done] Computing train scre: 0.9909
+
+###### Epoch: 181
+[Done] Computing train loss: 0.0286
+[Done] Computing train scre: 0.9913
+
+###### Epoch: 182
+[Done] Computing train loss: 0.0254
+[Done] Computing train scre: 0.9920
+
+###### Epoch: 183
+[Done] Computing train loss: 0.0214
+[Done] Computing train scre: 0.9931
+
+###### Epoch: 184
+[Done] Computing train loss: 0.0329
+[Done] Computing train scre: 0.9901
+
+###### Epoch: 185
+[Done] Computing train loss: 0.0273
+[Done] Computing train scre: 0.9918
+
+###### Epoch: 186
+[Done] Computing train loss: 0.0266
+[Done] Computing train scre: 0.9909
+
+###### Epoch: 187
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9940
+
+###### Epoch: 188
+[Done] Computing train loss: 0.0334
+[Done] Computing train scre: 0.9892
+
+###### Epoch: 189
+[Done] Computing train loss: 0.0262
+[Done] Computing train scre: 0.9915
+
+###### Epoch: 190
+[Done] Computing train loss: 0.0257
+[Done] Computing train scre: 0.9919
+
+###### Epoch: 191
+[Done] Computing train loss: 0.0263
+[Done] Computing train scre: 0.9913
+
+###### Epoch: 192
+[Done] Computing train loss: 0.0266
+[Done] Computing train scre: 0.9917
+
+###### Epoch: 193
+[Done] Computing train loss: 0.0290
+[Done] Computing train scre: 0.9909
+
+###### Epoch: 194
+[Done] Computing train loss: 0.0240
+[Done] Computing train scre: 0.9921
+
+###### Epoch: 195
+[Done] Computing train loss: 0.0211
+[Done] Computing train scre: 0.9931
+
+###### Epoch: 196
+[Done] Computing train loss: 0.0305
+[Done] Computing train scre: 0.9906
+
+###### Epoch: 197
+[Done] Computing train loss: 0.0241
+[Done] Computing train scre: 0.9923
+
+###### Epoch: 198
+[Done] Computing train loss: 0.0227
+[Done] Computing train scre: 0.9927
+
+###### Epoch: 199
+[Done] Computing train loss: 0.0264
+[Done] Computing train scre: 0.9919
+
+###### Epoch: 200
+[Done] Computing train loss: 0.0248
+[Done] Computing train scre: 0.9923
+
+###### Epoch: 201
+[Done] Computing train loss: 0.0270
+[Done] Computing train scre: 0.9919
+
+###### Epoch: 202
+[Done] Computing train loss: 0.0227
+[Done] Computing train scre: 0.9922
+
+###### Epoch: 203
+[Done] Computing train loss: 0.0239
+[Done] Computing train scre: 0.9921
+
+###### Epoch: 204
+[Done] Computing train loss: 0.0238
+[Done] Computing train scre: 0.9928
+
+###### Epoch: 205
+[Done] Computing train loss: 0.0236
+[Done] Computing train scre: 0.9921
+
+###### Epoch: 206
+[Done] Computing train loss: 0.0272
+[Done] Computing train scre: 0.9909
+
+###### Epoch: 207
+[Done] Computing train loss: 0.0230
+[Done] Computing train scre: 0.9922
+
+###### Epoch: 208
+[Done] Computing train loss: 0.0205
+[Done] Computing train scre: 0.9935
+
+###### Epoch: 209
+[Done] Computing train loss: 0.0273
+[Done] Computing train scre: 0.9912
+
+###### Epoch: 210
+[Done] Computing train loss: 0.0225
+[Done] Computing train scre: 0.9923
+
+###### Epoch: 211
+[Done] Computing train loss: 0.0227
+[Done] Computing train scre: 0.9929
+
+###### Epoch: 212
+[Done] Computing train loss: 0.0260
+[Done] Computing train scre: 0.9915
+
+###### Epoch: 213
+[Done] Computing train loss: 0.0220
+[Done] Computing train scre: 0.9928
+
+###### Epoch: 214
+[Done] Computing train loss: 0.0195
+[Done] Computing train scre: 0.9939
+
+###### Epoch: 215
+[Done] Computing train loss: 0.0195
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 216
+[Done] Computing train loss: 0.0264
+[Done] Computing train scre: 0.9915
+
+###### Epoch: 217
+[Done] Computing train loss: 0.0270
+[Done] Computing train scre: 0.9914
+
+###### Epoch: 218
+[Done] Computing train loss: 0.0199
+[Done] Computing train scre: 0.9935
+
+###### Epoch: 219
+[Done] Computing train loss: 0.0258
+[Done] Computing train scre: 0.9914
+
+###### Epoch: 220
+[Done] Computing train loss: 0.0278
+[Done] Computing train scre: 0.9907
+
+###### Epoch: 221
+[Done] Computing train loss: 0.0189
+[Done] Computing train scre: 0.9940
+
+###### Epoch: 222
+[Done] Computing train loss: 0.0177
+[Done] Computing train scre: 0.9945
+
+###### Epoch: 223
+[Done] Computing train loss: 0.0244
+[Done] Computing train scre: 0.9920
+
+###### Epoch: 224
+[Done] Computing train loss: 0.0242
+[Done] Computing train scre: 0.9923
+
+###### Epoch: 225
+[Done] Computing train loss: 0.0237
+[Done] Computing train scre: 0.9922
+
+###### Epoch: 226
+[Done] Computing train loss: 0.0170
+[Done] Computing train scre: 0.9944
+
+###### Epoch: 227
+[Done] Computing train loss: 0.0255
+[Done] Computing train scre: 0.9920
+
+###### Epoch: 228
+[Done] Computing train loss: 0.0244
+[Done] Computing train scre: 0.9919
+
+###### Epoch: 229
+[Done] Computing train loss: 0.0259
+[Done] Computing train scre: 0.9915
+
+###### Epoch: 230
+[Done] Computing train loss: 0.0178
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 231
+[Done] Computing train loss: 0.0222
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 232
+[Done] Computing train loss: 0.0218
+[Done] Computing train scre: 0.9937
+
+###### Epoch: 233
+[Done] Computing train loss: 0.0163
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 234
+[Done] Computing train loss: 0.0222
+[Done] Computing train scre: 0.9926
+
+###### Epoch: 235
+[Done] Computing train loss: 0.0234
+[Done] Computing train scre: 0.9930
+
+###### Epoch: 236
+[Done] Computing train loss: 0.0207
+[Done] Computing train scre: 0.9925
+
+###### Epoch: 237
+[Done] Computing train loss: 0.0209
+[Done] Computing train scre: 0.9929
+
+###### Epoch: 238
+[Done] Computing train loss: 0.0183
+[Done] Computing train scre: 0.9937
+
+###### Epoch: 239
+[Done] Computing train loss: 0.0186
+[Done] Computing train scre: 0.9933
+
+###### Epoch: 240
+[Done] Computing train loss: 0.0220
+[Done] Computing train scre: 0.9926
+
+###### Epoch: 241
+[Done] Computing train loss: 0.0215
+[Done] Computing train scre: 0.9931
+
+###### Epoch: 242
+[Done] Computing train loss: 0.0254
+[Done] Computing train scre: 0.9919
+
+###### Epoch: 243
+[Done] Computing train loss: 0.0227
+[Done] Computing train scre: 0.9925
+
+###### Epoch: 244
+[Done] Computing train loss: 0.0162
+[Done] Computing train scre: 0.9945
+
+###### Epoch: 245
+[Done] Computing train loss: 0.0240
+[Done] Computing train scre: 0.9924
+
+###### Epoch: 246
+[Done] Computing train loss: 0.0190
+[Done] Computing train scre: 0.9933
+
+###### Epoch: 247
+[Done] Computing train loss: 0.0233
+[Done] Computing train scre: 0.9922
+
+###### Epoch: 248
+[Done] Computing train loss: 0.0164
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 249
+[Done] Computing train loss: 0.0193
+[Done] Computing train scre: 0.9944
+
+###### Epoch: 250
+[Done] Computing train loss: 0.0257
+[Done] Computing train scre: 0.9919
+
+###### Epoch: 251
+[Done] Computing train loss: 0.0240
+[Done] Computing train scre: 0.9929
+
+###### Epoch: 252
+[Done] Computing train loss: 0.0202
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 253
+[Done] Computing train loss: 0.0193
+[Done] Computing train scre: 0.9931
+
+###### Epoch: 254
+[Done] Computing train loss: 0.0184
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 255
+[Done] Computing train loss: 0.0199
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 256
+[Done] Computing train loss: 0.0207
+[Done] Computing train scre: 0.9932
+
+###### Epoch: 257
+[Done] Computing train loss: 0.0202
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 258
+[Done] Computing train loss: 0.0195
+[Done] Computing train scre: 0.9941
+
+###### Epoch: 259
+[Done] Computing train loss: 0.0238
+[Done] Computing train scre: 0.9923
+
+###### Epoch: 260
+[Done] Computing train loss: 0.0204
+[Done] Computing train scre: 0.9932
+
+###### Epoch: 261
+[Done] Computing train loss: 0.0168
+[Done] Computing train scre: 0.9941
+
+###### Epoch: 262
+[Done] Computing train loss: 0.0226
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 263
+[Done] Computing train loss: 0.0207
+[Done] Computing train scre: 0.9931
+
+###### Epoch: 264
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9940
+
+###### Epoch: 265
+[Done] Computing train loss: 0.0242
+[Done] Computing train scre: 0.9918
+
+###### Epoch: 266
+[Done] Computing train loss: 0.0198
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 267
+[Done] Computing train loss: 0.0156
+[Done] Computing train scre: 0.9944
+
+###### Epoch: 268
+[Done] Computing train loss: 0.0221
+[Done] Computing train scre: 0.9927
+
+###### Epoch: 269
+[Done] Computing train loss: 0.0179
+[Done] Computing train scre: 0.9937
+
+###### Epoch: 270
+[Done] Computing train loss: 0.0201
+[Done] Computing train scre: 0.9933
+
+###### Epoch: 271
+[Done] Computing train loss: 0.0201
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 272
+[Done] Computing train loss: 0.0149
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 273
+[Done] Computing train loss: 0.0232
+[Done] Computing train scre: 0.9927
+
+###### Epoch: 274
+[Done] Computing train loss: 0.0202
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 275
+[Done] Computing train loss: 0.0200
+[Done] Computing train scre: 0.9933
+
+###### Epoch: 276
+[Done] Computing train loss: 0.0158
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 277
+[Done] Computing train loss: 0.0160
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 278
+[Done] Computing train loss: 0.0219
+[Done] Computing train scre: 0.9921
+
+###### Epoch: 279
+[Done] Computing train loss: 0.0172
+[Done] Computing train scre: 0.9944
+
+###### Epoch: 280
+[Done] Computing train loss: 0.0205
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 281
+[Done] Computing train loss: 0.0155
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 282
+[Done] Computing train loss: 0.0211
+[Done] Computing train scre: 0.9930
+
+###### Epoch: 283
+[Done] Computing train loss: 0.0154
+[Done] Computing train scre: 0.9945
+
+###### Epoch: 284
+[Done] Computing train loss: 0.0144
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 285
+[Done] Computing train loss: 0.0176
+[Done] Computing train scre: 0.9941
+
+###### Epoch: 286
+[Done] Computing train loss: 0.0243
+[Done] Computing train scre: 0.9919
+
+###### Epoch: 287
+[Done] Computing train loss: 0.0144
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 288
+[Done] Computing train loss: 0.0172
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 289
+[Done] Computing train loss: 0.0173
+[Done] Computing train scre: 0.9940
+
+###### Epoch: 290
+[Done] Computing train loss: 0.0192
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 291
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 292
+[Done] Computing train loss: 0.0234
+[Done] Computing train scre: 0.9926
+
+###### Epoch: 293
+[Done] Computing train loss: 0.0176
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 294
+[Done] Computing train loss: 0.0178
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 295
+[Done] Computing train loss: 0.0225
+[Done] Computing train scre: 0.9924
+
+###### Epoch: 296
+[Done] Computing train loss: 0.0122
+[Done] Computing train scre: 0.9956
+
+###### Epoch: 297
+[Done] Computing train loss: 0.0179
+[Done] Computing train scre: 0.9937
+
+###### Epoch: 298
+[Done] Computing train loss: 0.0181
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 299
+[Done] Computing train loss: 0.0186
+[Done] Computing train scre: 0.9935
+
+###### Epoch: 300
+[Done] Computing train loss: 0.0206
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 301
+[Done] Computing train loss: 0.0120
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 302
+[Done] Computing train loss: 0.0177
+[Done] Computing train scre: 0.9940
+
+###### Epoch: 303
+[Done] Computing train loss: 0.0196
+[Done] Computing train scre: 0.9932
+
+###### Epoch: 304
+[Done] Computing train loss: 0.0152
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 305
+[Done] Computing train loss: 0.0170
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 306
+[Done] Computing train loss: 0.0171
+[Done] Computing train scre: 0.9943
+
+###### Epoch: 307
+[Done] Computing train loss: 0.0185
+[Done] Computing train scre: 0.9944
+
+###### Epoch: 308
+[Done] Computing train loss: 0.0200
+[Done] Computing train scre: 0.9935
+
+###### Epoch: 309
+[Done] Computing train loss: 0.0159
+[Done] Computing train scre: 0.9945
+
+###### Epoch: 310
+[Done] Computing train loss: 0.0162
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 311
+[Done] Computing train loss: 0.0195
+[Done] Computing train scre: 0.9932
+
+###### Epoch: 312
+[Done] Computing train loss: 0.0147
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 313
+[Done] Computing train loss: 0.0130
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 314
+[Done] Computing train loss: 0.0178
+[Done] Computing train scre: 0.9940
+
+###### Epoch: 315
+[Done] Computing train loss: 0.0186
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 316
+[Done] Computing train loss: 0.0197
+[Done] Computing train scre: 0.9932
+
+###### Epoch: 317
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 318
+[Done] Computing train loss: 0.0169
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 319
+[Done] Computing train loss: 0.0198
+[Done] Computing train scre: 0.9940
+
+###### Epoch: 320
+[Done] Computing train loss: 0.0175
+[Done] Computing train scre: 0.9939
+
+###### Epoch: 321
+[Done] Computing train loss: 0.0123
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 322
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9943
+
+###### Epoch: 323
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 324
+[Done] Computing train loss: 0.0168
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 325
+[Done] Computing train loss: 0.0175
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 326
+[Done] Computing train loss: 0.0163
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 327
+[Done] Computing train loss: 0.0152
+[Done] Computing train scre: 0.9945
+
+###### Epoch: 328
+[Done] Computing train loss: 0.0203
+[Done] Computing train scre: 0.9933
+
+###### Epoch: 329
+[Done] Computing train loss: 0.0152
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 330
+[Done] Computing train loss: 0.0123
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 331
+[Done] Computing train loss: 0.0195
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 332
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9956
+
+###### Epoch: 333
+[Done] Computing train loss: 0.0172
+[Done] Computing train scre: 0.9937
+
+###### Epoch: 334
+[Done] Computing train loss: 0.0182
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 335
+[Done] Computing train loss: 0.0157
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 336
+[Done] Computing train loss: 0.0179
+[Done] Computing train scre: 0.9937
+
+###### Epoch: 337
+[Done] Computing train loss: 0.0145
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 338
+[Done] Computing train loss: 0.0207
+[Done] Computing train scre: 0.9929
+
+###### Epoch: 339
+[Done] Computing train loss: 0.0154
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 340
+[Done] Computing train loss: 0.0193
+[Done] Computing train scre: 0.9935
+
+###### Epoch: 341
+[Done] Computing train loss: 0.0160
+[Done] Computing train scre: 0.9945
+
+###### Epoch: 342
+[Done] Computing train loss: 0.0123
+[Done] Computing train scre: 0.9956
+
+###### Epoch: 343
+[Done] Computing train loss: 0.0174
+[Done] Computing train scre: 0.9943
+
+###### Epoch: 344
+[Done] Computing train loss: 0.0178
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 345
+[Done] Computing train loss: 0.0147
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 346
+[Done] Computing train loss: 0.0131
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 347
+[Done] Computing train loss: 0.0146
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 348
+[Done] Computing train loss: 0.0185
+[Done] Computing train scre: 0.9943
+
+###### Epoch: 349
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 350
+[Done] Computing train loss: 0.0165
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 351
+[Done] Computing train loss: 0.0150
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 352
+[Done] Computing train loss: 0.0221
+[Done] Computing train scre: 0.9929
+
+###### Epoch: 353
+[Done] Computing train loss: 0.0180
+[Done] Computing train scre: 0.9939
+
+###### Epoch: 354
+[Done] Computing train loss: 0.0146
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 355
+[Done] Computing train loss: 0.0153
+[Done] Computing train scre: 0.9939
+
+###### Epoch: 356
+[Done] Computing train loss: 0.0130
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 357
+[Done] Computing train loss: 0.0175
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 358
+[Done] Computing train loss: 0.0121
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 359
+[Done] Computing train loss: 0.0115
+[Done] Computing train scre: 0.9958
+
+###### Epoch: 360
+[Done] Computing train loss: 0.0182
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 361
+[Done] Computing train loss: 0.0151
+[Done] Computing train scre: 0.9950
+
+###### Epoch: 362
+[Done] Computing train loss: 0.0192
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 363
+[Done] Computing train loss: 0.0135
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 364
+[Done] Computing train loss: 0.0157
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 365
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 366
+[Done] Computing train loss: 0.0154
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 367
+[Done] Computing train loss: 0.0140
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 368
+[Done] Computing train loss: 0.0153
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 369
+[Done] Computing train loss: 0.0171
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 370
+[Done] Computing train loss: 0.0125
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 371
+[Done] Computing train loss: 0.0161
+[Done] Computing train scre: 0.9943
+
+###### Epoch: 372
+[Done] Computing train loss: 0.0174
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 373
+[Done] Computing train loss: 0.0153
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 374
+[Done] Computing train loss: 0.0131
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 375
+[Done] Computing train loss: 0.0133
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 376
+[Done] Computing train loss: 0.0148
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 377
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9939
+
+###### Epoch: 378
+[Done] Computing train loss: 0.0147
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 379
+[Done] Computing train loss: 0.0136
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 380
+[Done] Computing train loss: 0.0167
+[Done] Computing train scre: 0.9942
+
+###### Epoch: 381
+[Done] Computing train loss: 0.0126
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 382
+[Done] Computing train loss: 0.0187
+[Done] Computing train scre: 0.9941
+
+###### Epoch: 383
+[Done] Computing train loss: 0.0140
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 384
+[Done] Computing train loss: 0.0132
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 385
+[Done] Computing train loss: 0.0156
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 386
+[Done] Computing train loss: 0.0202
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 387
+[Done] Computing train loss: 0.0124
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 388
+[Done] Computing train loss: 0.0132
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 389
+[Done] Computing train loss: 0.0180
+[Done] Computing train scre: 0.9938
+
+###### Epoch: 390
+[Done] Computing train loss: 0.0137
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 391
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 392
+[Done] Computing train loss: 0.0184
+[Done] Computing train scre: 0.9935
+
+###### Epoch: 393
+[Done] Computing train loss: 0.0123
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 394
+[Done] Computing train loss: 0.0109
+[Done] Computing train scre: 0.9956
+
+###### Epoch: 395
+[Done] Computing train loss: 0.0176
+[Done] Computing train scre: 0.9944
+
+###### Epoch: 396
+[Done] Computing train loss: 0.0138
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 397
+[Done] Computing train loss: 0.0128
+[Done] Computing train scre: 0.9960
+
+###### Epoch: 398
+[Done] Computing train loss: 0.0144
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 399
+[Done] Computing train loss: 0.0179
+[Done] Computing train scre: 0.9936
+
+###### Epoch: 400
+[Done] Computing train loss: 0.0152
+[Done] Computing train scre: 0.9944
+
+###### Epoch: 401
+[Done] Computing train loss: 0.0116
+[Done] Computing train scre: 0.9958
+
+###### Epoch: 402
+[Done] Computing train loss: 0.0144
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 403
+[Done] Computing train loss: 0.0116
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 404
+[Done] Computing train loss: 0.0149
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 405
+[Done] Computing train loss: 0.0131
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 406
+[Done] Computing train loss: 0.0120
+[Done] Computing train scre: 0.9956
+
+###### Epoch: 407
+[Done] Computing train loss: 0.0148
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 408
+[Done] Computing train loss: 0.0123
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 409
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 410
+[Done] Computing train loss: 0.0158
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 411
+[Done] Computing train loss: 0.0123
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 412
+[Done] Computing train loss: 0.0154
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 413
+[Done] Computing train loss: 0.0137
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 414
+[Done] Computing train loss: 0.0180
+[Done] Computing train scre: 0.9939
+
+###### Epoch: 415
+[Done] Computing train loss: 0.0102
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 416
+[Done] Computing train loss: 0.0133
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 417
+[Done] Computing train loss: 0.0113
+[Done] Computing train scre: 0.9958
+
+###### Epoch: 418
+[Done] Computing train loss: 0.0187
+[Done] Computing train scre: 0.9934
+
+###### Epoch: 419
+[Done] Computing train loss: 0.0141
+[Done] Computing train scre: 0.9950
+
+###### Epoch: 420
+[Done] Computing train loss: 0.0107
+[Done] Computing train scre: 0.9958
+
+###### Epoch: 421
+[Done] Computing train loss: 0.0174
+[Done] Computing train scre: 0.9943
+
+###### Epoch: 422
+[Done] Computing train loss: 0.0116
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 423
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 424
+[Done] Computing train loss: 0.0139
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 425
+[Done] Computing train loss: 0.0156
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 426
+[Done] Computing train loss: 0.0121
+[Done] Computing train scre: 0.9955
+
+###### Epoch: 427
+[Done] Computing train loss: 0.0120
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 428
+[Done] Computing train loss: 0.0161
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 429
+[Done] Computing train loss: 0.0096
+[Done] Computing train scre: 0.9966
+
+###### Epoch: 430
+[Done] Computing train loss: 0.0167
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 431
+[Done] Computing train loss: 0.0117
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 432
+[Done] Computing train loss: 0.0149
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 433
+[Done] Computing train loss: 0.0122
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 434
+[Done] Computing train loss: 0.0104
+[Done] Computing train scre: 0.9962
+
+###### Epoch: 435
+[Done] Computing train loss: 0.0165
+[Done] Computing train scre: 0.9943
+
+###### Epoch: 436
+[Done] Computing train loss: 0.0138
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 437
+[Done] Computing train loss: 0.0109
+[Done] Computing train scre: 0.9962
+
+###### Epoch: 438
+[Done] Computing train loss: 0.0159
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 439
+[Done] Computing train loss: 0.0144
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 440
+[Done] Computing train loss: 0.0149
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 441
+[Done] Computing train loss: 0.0127
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 442
+[Done] Computing train loss: 0.0114
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 443
+[Done] Computing train loss: 0.0138
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 444
+[Done] Computing train loss: 0.0101
+[Done] Computing train scre: 0.9966
+
+###### Epoch: 445
+[Done] Computing train loss: 0.0143
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 446
+[Done] Computing train loss: 0.0111
+[Done] Computing train scre: 0.9959
+
+###### Epoch: 447
+[Done] Computing train loss: 0.0158
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 448
+[Done] Computing train loss: 0.0125
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 449
+[Done] Computing train loss: 0.0139
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 450
+[Done] Computing train loss: 0.0145
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 451
+[Done] Computing train loss: 0.0142
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 452
+[Done] Computing train loss: 0.0110
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 453
+[Done] Computing train loss: 0.0149
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 454
+[Done] Computing train loss: 0.0118
+[Done] Computing train scre: 0.9959
+
+###### Epoch: 455
+[Done] Computing train loss: 0.0123
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 456
+[Done] Computing train loss: 0.0134
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 457
+[Done] Computing train loss: 0.0091
+[Done] Computing train scre: 0.9963
+
+###### Epoch: 458
+[Done] Computing train loss: 0.0116
+[Done] Computing train scre: 0.9958
+
+###### Epoch: 459
+[Done] Computing train loss: 0.0143
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 460
+[Done] Computing train loss: 0.0144
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 461
+[Done] Computing train loss: 0.0129
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 462
+[Done] Computing train loss: 0.0096
+[Done] Computing train scre: 0.9963
+
+###### Epoch: 463
+[Done] Computing train loss: 0.0130
+[Done] Computing train scre: 0.9956
+
+###### Epoch: 464
+[Done] Computing train loss: 0.0109
+[Done] Computing train scre: 0.9959
+
+###### Epoch: 465
+[Done] Computing train loss: 0.0135
+[Done] Computing train scre: 0.9956
+
+###### Epoch: 466
+[Done] Computing train loss: 0.0111
+[Done] Computing train scre: 0.9963
+
+###### Epoch: 467
+[Done] Computing train loss: 0.0126
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 468
+[Done] Computing train loss: 0.0159
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 469
+[Done] Computing train loss: 0.0127
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 470
+[Done] Computing train loss: 0.0094
+[Done] Computing train scre: 0.9966
+
+###### Epoch: 471
+[Done] Computing train loss: 0.0108
+[Done] Computing train scre: 0.9960
+
+###### Epoch: 472
+[Done] Computing train loss: 0.0137
+[Done] Computing train scre: 0.9952
+
+###### Epoch: 473
+[Done] Computing train loss: 0.0168
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 474
+[Done] Computing train loss: 0.0099
+[Done] Computing train scre: 0.9963
+
+###### Epoch: 475
+[Done] Computing train loss: 0.0074
+[Done] Computing train scre: 0.9967
+
+###### Epoch: 476
+[Done] Computing train loss: 0.0202
+[Done] Computing train scre: 0.9931
+
+###### Epoch: 477
+[Done] Computing train loss: 0.0101
+[Done] Computing train scre: 0.9964
+
+###### Epoch: 478
+[Done] Computing train loss: 0.0121
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 479
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9946
+
+###### Epoch: 480
+[Done] Computing train loss: 0.0131
+[Done] Computing train scre: 0.9959
+
+###### Epoch: 481
+[Done] Computing train loss: 0.0131
+[Done] Computing train scre: 0.9963
+
+###### Epoch: 482
+[Done] Computing train loss: 0.0132
+[Done] Computing train scre: 0.9957
+
+###### Epoch: 483
+[Done] Computing train loss: 0.0131
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 484
+[Done] Computing train loss: 0.0159
+[Done] Computing train scre: 0.9949
+
+###### Epoch: 485
+[Done] Computing train loss: 0.0132
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 486
+[Done] Computing train loss: 0.0100
+[Done] Computing train scre: 0.9962
+
+###### Epoch: 487
+[Done] Computing train loss: 0.0126
+[Done] Computing train scre: 0.9960
+
+###### Epoch: 488
+[Done] Computing train loss: 0.0166
+[Done] Computing train scre: 0.9947
+
+###### Epoch: 489
+[Done] Computing train loss: 0.0118
+[Done] Computing train scre: 0.9959
+
+###### Epoch: 490
+[Done] Computing train loss: 0.0098
+[Done] Computing train scre: 0.9959
+
+###### Epoch: 491
+[Done] Computing train loss: 0.0126
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 492
+[Done] Computing train loss: 0.0132
+[Done] Computing train scre: 0.9953
+
+###### Epoch: 493
+[Done] Computing train loss: 0.0149
+[Done] Computing train scre: 0.9954
+
+###### Epoch: 494
+[Done] Computing train loss: 0.0105
+[Done] Computing train scre: 0.9967
+
+###### Epoch: 495
+[Done] Computing train loss: 0.0133
+[Done] Computing train scre: 0.9962
+
+###### Epoch: 496
+[Done] Computing train loss: 0.0135
+[Done] Computing train scre: 0.9951
+
+###### Epoch: 497
+[Done] Computing train loss: 0.0144
+[Done] Computing train scre: 0.9948
+
+###### Epoch: 498
+[Done] Computing train loss: 0.0094
+[Done] Computing train scre: 0.9963
+
+###### Epoch: 499
+[Done] Computing train loss: 0.0097
+[Done] Computing train scre: 0.9960
+
+###### Epoch: 500
+[Done] Computing train loss: 0.0125
+[Done] Computing train scre: 0.9961
