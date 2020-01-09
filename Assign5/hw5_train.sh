@@ -1,0 +1,1 @@
+python3 Train.py -d $1 -l $2 -t $3
